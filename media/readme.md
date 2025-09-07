@@ -1,6 +1,6 @@
-# Media
+#Media
 
-## Logo
+##Logo
 
 - Primary color: `#fc60a8`
 - Secondary color: `#494368`
